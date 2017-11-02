@@ -1,2 +1,2 @@
 # MakPad
-A very simple text editor (for fun purposes)
+A very simple but functional notepad like text editor <br>
